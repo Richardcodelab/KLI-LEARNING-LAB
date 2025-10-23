@@ -274,7 +274,7 @@ MIT License - 자유롭게 사용 가능
 
 - 프로젝트 관리자: 러닝랩 팀
 - 이메일: shinminjea@kli.re.kr
-- 이슈: [GitHub Issues](https://github.com/your-repo/issues)
+- 이슈: [GitHub Issues](https://github.com/Richardcodelab/KLI-LEARNING-LAB/)
 
 ---
 
