@@ -1,0 +1,31 @@
+﻿user_pattern,canonical_term,category,synonyms,weight
+청년,청년,인구,젊은층|청소년|20대|30대|young|youth,1.0
+여성,여성,인구,여자|female|woman|gender,0.9
+남성,남성,인구,남자|male|man,0.9
+노인,노인,인구,고령자|어르신|시니어|elderly|senior|aged,1.0
+아동,아동,인구,어린이|유아|청소년|child|children|youth|kid,1.0
+고용,고용,경제,취업|일자리|채용|직업|근로|근무|직장|노동|employment|job|work|career|occupation|labor,1.0
+임금,임금,경제,급여|보수|소득|wage|salary|income|pay,1.0
+실업,실업,경제,실직|구직|비정규직|unemployment|jobless|irregular employment,1.0
+성장,성장,경제,발전|증가|확대|성장률|growth|development|expansion|increase,0.9
+소비,소비,경제,구매|지출|소비자|소비행태|consumption|purchase|spending|consumer,0.9
+저축,저축,경제,저금|예금|재테크|자산|saving|deposit|asset|financial planning,0.9
+투자,투자,경제,자산운용|주식|채권|부동산|investment|stock|bond|real estate,0.9
+가계,가계,경제,가정|가구|household|family,0.8
+제약,제약,경제,제한|한계|장벽|어려움|constraint|limitation|barrier,0.8
+경제,경제,경제,경영|금융|투자|시장|기업|산업|무역|소비|economy|business|finance|market|industry,1.0
+신용,신용,금융,대출|신용도|신용평가|금융거래|credit|loan|financial,1.0
+부채,부채,금융,빚|채무|부담|debt|loan burden|liability,1.0
+교육,교육,사회,학습|교수|학교|대학|연수|훈련|강의|수업|education|learning|teaching|school|university,1.0
+학력,학력,교육,학벌|졸업|교육수준|education level|degree|diploma,0.8
+의료,의료,사회,병원|치료|진료|간호|의사|환자|건강|질병|medical|hospital|treatment|healthcare|doctor,1.0
+건강,건강,의료,웰빙|보건|질병|예방|치료|health|wellness|disease|prevention,1.0
+사회,사회,사회,복지|정책|제도|문화|공공|시민|지역|커뮤니티|society|welfare|policy|culture|community,1.0
+복지,복지,사회,사회보장|지원|혜택|welfare|social security|support|benefit,1.0
+불평등,불평등,사회,격차|차별|양극화|inequality|gap|discrimination|polarization,1.0
+빈곤,빈곤,사회,가난|저소득|취약계층|소득불평등|poverty|poor|low-income|inequality,1.0
+정책,정책,행정,제도|법|규제|정부|policy|law|regulation|government,0.9
+환경,환경,환경,기후|에너지|자원|지속가능|친환경|오염|생태|environment|climate|energy|sustainable|ecology,1.0
+기술,기술,기술,과학|연구|개발|혁신|디지털|인공지능|AI|IT|technology|science|research|development|innovation,1.0
+컴퓨터,컴퓨터,기술,프로그래밍|소프트웨어|하드웨어|네트워크|데이터|알고리즘|computer|programming|software|hardware|network|data,1.0
+관리,관리,경영,운영|조직|계획|전략|효율|성과|품질|시스템|management|operation|organization|strategy|efficiency,1.0
